@@ -71,6 +71,3 @@ g++ newmain.o -o test_prog
 - Fines
   - For every unit decrement in condition a fine equal to the cost of car per day is imposed
   - For every day delayed the an extra cost of fine per day shall be imposed (fetched from the file) above and over the cost of car per day
-
-## Pending 
-- one final security check

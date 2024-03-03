@@ -23,6 +23,7 @@ This repository has the following contents &rarr;
 
 
 ## Instructions 
+- Ensure that the cursor is there in the next line of each csv file loaded for all write functions to work as expected.
 Run the following command to compile and run the programme 
 bash
 g++ -c newmain.cpp -o main.o
